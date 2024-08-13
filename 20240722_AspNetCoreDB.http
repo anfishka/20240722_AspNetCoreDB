@@ -1,0 +1,6 @@
+@_20240722_AspNetCoreDB_HostAddress = http://localhost:5041
+
+GET {{_20240722_AspNetCoreDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
